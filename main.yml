@@ -4,6 +4,8 @@
   gather_facts: no
   vars_files:
   - cred.yml
+  become: yes
+  become_user: root
 
   # Variables
   vars:
