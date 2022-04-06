@@ -1,4 +1,4 @@
-# devopsAssessmentwJenkins
+# DevopsAssessmentwJenkins
 
 As prerequisites I have used Ubuntu 20.04 on Windows 10 on which I have installed ansible, python3, boto and jenkins.
 For AWS, I have created a user with AdministratorAccess, downloaded the csv given at the end and created an ansible-vault file "cred.yml" containing:
