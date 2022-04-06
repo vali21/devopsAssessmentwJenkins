@@ -23,4 +23,5 @@ and the instance was created:
 
 By typing in the browser the public ip of the instance, we can see the webpage deployed successfuly.
 
-![image](https://user-images.githubusercontent.com/49509610/161989934-a69b80e9-4b3f-48d5-949f-7d5510cd44d7.png)
+![image](https://user-images.githubusercontent.com/49509610/161990135-9cd591a0-289d-40a4-ae88-7d684df0e1ca.png)
+
